@@ -10,7 +10,6 @@
   </ul>
   It also shows how much money you are left with by performing calculations and show the graph of income and expense</p>
 
-<h3>✨You can vist the website here: <a href="https://yashbrid03.github.io/Budget-calculator/">Budget Calculator</a>✨</h3>
 
 <h2>Languages Used : </h2>
 <ul>
